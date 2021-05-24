@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
+## SEMEQ Products
 
-You can use the [editor on GitHub](https://github.com/semeqprod/semeqprod.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+Links importantes a seguir.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Projetos
 
-### Markdown
+(Kanban)[https://airtable.com/shrevzyOLwZOay3Nl]
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Revisãoo de Projetos
 
-```markdown
-Syntax highlighted code block
+(Revisão)[https://airtable.com/shrOLBEfgBKNREuKq]
 
-# Header 1
-## Header 2
-### Header 3
+### Solicitação
 
-- Bulleted
-- List
+(Problema ou Melhoria)[https://airtable.com/shrRxXW0j0N5HS0bt]
 
-1. Numbered
-2. List
+### Estimativa de Solicitações
 
-**Bold** and _Italic_ and `Code` text
+(Estimativa)[https://airtable.com/shrlij2zLFcTRjvp5]
 
-[Link](url) and ![Image](src)
-```
+### Materiais de Desenvolvimento
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/semeqprod/semeqprod.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+(Material)[https://airtable.com/shrV0CbHzWSrGlgI0]
